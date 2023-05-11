@@ -15,9 +15,9 @@ body {
 
 
 /* Navbar */
-/* nav {
-	background-color: #35858B;
-} */
+nav {
+	background-color: #072227;
+} 
 
 
 /* Landing Page */
@@ -30,6 +30,32 @@ body {
 	font-size: 2vw;
 	font-weight: lighter;
 }
+
+#aboutMe {
+	font-size: 1.5rem;
+}
+
+h2 {
+	font-size: 3rem;
+}
+
+
+
+
+/* Card Section */
+.card-body{
+	background-color: #072227;
+}
+
+
+
+.card-img-top {
+	height: 200px;
+	width: 200px;
+}
+
+
+
 
 
 
