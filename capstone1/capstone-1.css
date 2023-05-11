@@ -1,0 +1,36 @@
+/* CSS Reset Rule */
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+
+
+body {
+	background-color: #072227 ;
+	font-family: 'Montserrat', sans-serif;
+}
+
+
+
+/* Navbar */
+/* nav {
+	background-color: #35858B;
+} */
+
+
+/* Landing Page */
+#myName {
+	font-size: 5vw;
+	font-weight: bold;
+}
+
+#fullStack {
+	font-size: 2vw;
+	font-weight: lighter;
+}
+
+
+
+
